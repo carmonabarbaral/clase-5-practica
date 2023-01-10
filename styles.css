@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+
+*{
+    margin: 2px;
+    padding:1px ;
+    box-sizing:border-box;
+    color: blueviolet;
+    list-style-type: style none; ;
+    text-decoration:none ;
+    font-family:sans-serif ;
+}
+
+.botones{
+margin: 20px; ;
+}
+a {
+	padding: 0.5em 2em;
+	border: 2px solid black;
+}
